@@ -1,6 +1,3 @@
-# 學號: 10720111 / 10720107
-# 姓名: 陳少暉 / 陳丕中
-
 def Find_Maximum_Subarray(A):
     n = len(A)
     low, high, sum = _Find_Maximum_Subarray(A, 0, n - 1)
