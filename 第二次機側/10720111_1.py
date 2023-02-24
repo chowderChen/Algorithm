@@ -1,5 +1,3 @@
-# 學號: 10720111
-# 姓名: 陳少暉
 # Twin towers
 # longest sub sequence or sth
 
