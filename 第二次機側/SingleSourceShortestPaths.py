@@ -1,5 +1,3 @@
-# 學號: 10720111
-# 姓名: 陳少暉
 # Single source shortest paths
 
 INFINITY = 1e30
