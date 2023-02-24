@@ -1,6 +1,3 @@
-# 學號: 10720111 / 10720107
-# 姓名: 陳少暉 / 陳丕中
-
 class Bucket:
     def __init__( self, maxVolume, name ):
         self.maxVolume = maxVolume
